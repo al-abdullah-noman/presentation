@@ -1,0 +1,133 @@
+.Intro {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+/* .firstpart {
+    /* background-color: rgb(255, 255, 255); */
+/* background-image: url(top-banner.png);
+    background-repeat: no-repeat; */
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    background-color: rgb(252, 242, 229);
+}
+
+.name {
+    color: coral;
+}
+
+.header {
+    display: flex;
+    padding: 5%;
+    margin-bottom: 100px;
+
+}
+
+.media {
+    font-size: 50px;
+    margin: 10px 30px;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 95%;
+}
+
+.hobysec {
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+}
+
+.hoby {
+    width: 20%;
+    padding: 20px;
+    background-color: rgb(248, 236, 223);
+    margin: 8px;
+    border-radius: 25px 0;
+    box-shadow: 5px 5px 8px rgb(149, 149, 149);
+    border-left: 5px solid rgba(230, 82, 161, 0.831);
+
+}
+
+.hobbypart {
+    margin: 0px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(84, 24, 114);
+
+}
+
+.hoby h3 {
+    color: rgb(107, 15, 84);
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.hoby h5 {
+    text-align: left;
+}
+
+.hoby h4 {
+    color: rgb(118, 66, 57);
+    text-align: left;
+}
+
+.footer {
+    text-align: center;
+}
+
+.education {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.schoolsec {
+    display: flex;
+
+}
+
+.school {
+    background-image: url(school-bg.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    padding: 10px;
+    height: 300px;
+    width: 25%;
+    border: 1px solid rgb(154, 85, 91);
+    border-radius: 15px;
+    text-align: left;
+}
+
+.schoolicon {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5PX;
+}
+
+.to_nayeem {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 9, 15);
+}
